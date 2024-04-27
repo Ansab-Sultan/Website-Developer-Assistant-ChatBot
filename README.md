@@ -1,4 +1,4 @@
-# Website Developer Assistant
+# Website Developer Assistant ChatBot
 
 This project aims to assist users in website development tasks by providing guidance and code snippets using natural language processing techniques. It leverages LangChain to utilize an existing chatbot model for understanding user queries and generating relevant responses, including HTML and CSS code snippets.
 
