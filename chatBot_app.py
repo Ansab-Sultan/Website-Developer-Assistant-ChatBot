@@ -1,8 +1,6 @@
 import os
 from getpass import getpass
 from langchain_community.llms import HuggingFaceHub
-
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
 import streamlit as st
 from langchain.chains import LLMChain
 from langchain.llms import HuggingFacePipeline
